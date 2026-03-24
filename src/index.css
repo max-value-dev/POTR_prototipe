@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Caprasimo&family=Inter:wght@400;500;600;700;800&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Inter", sans-serif;
+  --font-display: "Caprasimo", serif;
+}
+
+body {
+  background-color: #F4F1E8;
+}
